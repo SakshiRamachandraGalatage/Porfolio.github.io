@@ -56,12 +56,12 @@ Tourism promotes cultural exchange and can incentivize the preservation of histo
 ### 🎯 **Topic:** Tourism Travel
 
 - DAA (Design and Analysis of Algorithms)  
-- Focus: Algorithmic Problem Solving for Pollution cities  
+- Focus: Algorithmic Problem Solving for Tourism Managment  
 
 ### 📋 **Details:**
 
 - **Course Name**: Algorithms Lab 
-- **Course Code**: 24ECAP202  
+- **Course Code**: 24ECAC203  
 - **Name**: Sakshi Ramchandra Galatage 
 - **SRN**: 02FE23BCI020
 - **Course Instructor**:Dr. Priyanka Gavade  
